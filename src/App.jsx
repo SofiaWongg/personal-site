@@ -5,6 +5,7 @@ import About from './pages/About/About'
 import Experience from './pages/Experience/Experience.jsx'
 import Contact from './pages/Contact/Contact'
 import Footer from './components/Footer/Footer'
+import Projects from './pages/Projects/Projects.jsx'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Nav />
       <About />
       <Experience/>
+      <Projects />
       <Contact />
       <Footer />
     </>
