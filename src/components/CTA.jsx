@@ -1,5 +1,5 @@
 import React from 'react'
-import Resume from '../assets/assets/WordpressDeveloper.pdf'
+import Resume from '../assets/assets/Resume (2).pdf'
 
 const CTA = () => {
   return (

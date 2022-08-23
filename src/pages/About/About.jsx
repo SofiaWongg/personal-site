@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/assets/nobackcropped.png'
+import ME from '../../assets/assets/backpacking.jpg'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import {AiFillFolderOpen} from 'react-icons/ai'
@@ -37,11 +37,11 @@ const About = () => {
             </article>
           </div>
 
-          <p>That's enough talking about me in the third person....
+          <p>Hi, my name is Sofia Wong. I am a Frontend Developer and UI/UX Designer, and welcome to my page! I enjoy designing and building clean, friendly, and fun designs for websites, apps, and games that focus on accessibility and style. 
 
-I'm just someone who falls off of colorful rocks at my bouldering gym, plays DND with my friends, and loves boba!
+Outside of being a designer/developer, I am an avid backpacker, runner, and general sports enthusiast. I am outgoing and love to create collaborative pieces of art and music! 
 
-I'm passionate about designing tools that other people can freely use to enhance their experience in some of my favorite games. I credit my ability in continuing to make headway in these projects through careful, but non-intrusive, planning (kanban boards are my best friends), as well as motivation from my peers who enjoy the things I create.</p>
+</p>
 
       <a href='#contact' className='btn btn-primary'>Lets Talk</a>
 
