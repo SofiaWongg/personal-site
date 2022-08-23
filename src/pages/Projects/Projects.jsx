@@ -1,7 +1,7 @@
 import React from 'react'
 import './projects.css'
-import IMG1 from '../../assets/assets/portfolio1.jpg'
-import IMG2 from '../../assets/assets/portfolio2.jpg'
+import IMG1 from '../../assets/assets/covidDashImg.png'
+import IMG2 from '../../assets/assets/zoe-art-ss.png'
 import IMG3 from '../../assets/assets/portfolio3.jpg'
 
 const Projects = () => {
@@ -10,26 +10,26 @@ const Projects = () => {
     {
       id: 1,
       image: IMG1,
-      title: 'Title of Project',
+      title: 'Covid Dashboard',
       github: 'https://github.com',
-      demo: 'https://github.com'
+      demo: 'https://a99-petra.vercel.app/dashboard'
     }, 
 
     {
       id: 2,
       image: IMG2,
-      title: 'Title of Project',
-      github: 'https://github.com',
-      demo: 'https://github.com'
-    }, 
-
-    {
-      id: 3,
-      image: IMG3,
-      title: 'Title of Project',
-      github: 'https://github.com',
-      demo: 'https://github.com'
+      title: 'Art Showcase',
+      github: 'https://github.com/SofiaWongg/SofiaWongg.git',
+      demo: 'https://sofiawongg.github.io/SofiaWongg/ink.html'
     }
+
+    // ,{
+    //   id: 3,
+    //   image: IMG3,
+    //   title: 'Title of Project',
+    //   github: 'https://github.com',
+    //   demo: 'https://github.com'
+    // }
 
   ]
   return (

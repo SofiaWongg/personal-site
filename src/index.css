@@ -15,12 +15,12 @@
 
 :root {
   /**create some variables without repeating all the time**/
-  --color-bg: #FFE19C;
-  --color-bg-variant: #FCE8B9;
-  --color-primary: #8CC8F5;
-  --color-primary-variant: #C1E0F7;
-  --color-white: #fff;
-  --color-light:rgba(255, 255, 0.6);
+  --color-bg: #f1f6f9;
+  --color-bg-variant: #91AABD ;
+  --color-primary: #5D6027;
+  --color-primary-variant:#2D434C ;
+  --color-white: #202819;
+  --color-light: #6Q695F(255, 255, 0.6);
 
   --container-width-lg: 75%;
   --container-width-md: 86%;
