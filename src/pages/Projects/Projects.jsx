@@ -11,7 +11,7 @@ const Projects = () => {
       id: 1,
       image: IMG1,
       title: 'Covid Dashboard',
-      github: 'https://github.com',
+      github: 'https://github.com/comp426-2022-spring/a99-petra',
       demo: 'https://a99-petra.vercel.app/dashboard'
     }, 
 
