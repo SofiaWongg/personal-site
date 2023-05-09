@@ -2,11 +2,19 @@ import React from 'react'
 import './projects.css'
 import IMG1 from '../../assets/assets/covidDashImg.png'
 import IMG2 from '../../assets/assets/zoe-art-ss.png'
-import IMG3 from '../../assets/assets/portfolio3.jpg'
+import IMG3 from '../../assets/assets/xl-project.png'
 
 const Projects = () => {
 
   const data = [
+
+    ,{
+      id: 3,
+      image: IMG3,
+      title: 'XL Forum Page',
+      github: 'https://github.com/comp423-23s/final-project-c9',
+      demo: 'https://team-c9-comp423-23s.apps.cloudapps.unc.edu/create'
+    }, 
     {
       id: 1,
       image: IMG1,
@@ -23,14 +31,7 @@ const Projects = () => {
       demo: 'https://sofiawongg.github.io/SofiaWongg/ink.html'
     }
 
-    // ,{
-    //   id: 3,
-    //   image: IMG3,
-    //   title: 'Title of Project',
-    //   github: 'https://github.com',
-    //   demo: 'https://github.com'
-    // }
-
+  
   ]
   return (
     <section id='projects'>
