@@ -1,7 +1,7 @@
 import React from 'react'
 import './projects.css'
 import IMG1 from '../../assets/assets/covidDashImg.png'
-import IMG2 from '../../assets/assets/Simulator Screenshot - iPhone 14 Pro - 2024-02-08 at 14.49.31.png'
+import IMG2 from '../../assets/assets/pickupScreenshots.png'
 import IMG3 from '../../assets/assets/xl-project.png'
 
 const Projects = () => {
