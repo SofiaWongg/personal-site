@@ -1,19 +1,18 @@
 import React from 'react'
 import './projects.css'
 import IMG1 from '../../assets/assets/covidDashImg.png'
-import IMG2 from '../../assets/assets/zoe-art-ss.png'
+import IMG2 from '../../assets/assets/Simulator Screenshot - iPhone 14 Pro - 2024-02-08 at 14.49.31.png'
 import IMG3 from '../../assets/assets/xl-project.png'
 
 const Projects = () => {
 
   const data = [
-
     ,{
       id: 3,
       image: IMG3,
       title: 'XL Forum Page',
       github: 'https://github.com/comp423-23s/final-project-c9',
-      demo: 'https://team-c9-comp423-23s.apps.cloudapps.unc.edu/create'
+      demo: 'https://csxl.unc.edu/organizations'
     }, 
     {
       id: 1,
@@ -26,8 +25,8 @@ const Projects = () => {
     {
       id: 2,
       image: IMG2,
-      title: 'Art Showcase',
-      github: 'https://github.com/SofiaWongg/SofiaWongg.git',
+      title: 'Pick Up Sports App',
+      github: 'https://github.com/SofiaWongg/iOS_pickup',
       demo: 'https://sofiawongg.github.io/SofiaWongg/ink.html'
     }
 

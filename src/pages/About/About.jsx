@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2 Year Working</small>
+              <small>3 Years Working</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon'/>
@@ -37,7 +37,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Hi, my name is Sofia Wong. I am a Frontend Developer and UI/UX Designer, and welcome to my page! I enjoy designing and building clean, friendly, and fun designs for websites, apps, and games that focus on accessibility and style. 
+          <p>Hi, my name is Sofia Wong. I am a iOS Developer and UI/UX Designer, and welcome to my page! I enjoy designing and building clean, friendly, and fun designs for websites, apps, and games that focus on accessibility and style. 
 
 Outside of being a designer/developer, I am an avid backpacker, runner, and general sports enthusiast. I am outgoing and love to create collaborative pieces of art and music! 
 
