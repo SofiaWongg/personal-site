@@ -22,18 +22,20 @@ const About = () => {
           <div className='about__cards'>
             <article className='about__card'>
               <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small>3+ years</small>
+              <h5>Education</h5>
+              <small>Computer Science @ UNC-CH</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>4 clients</small>
+              <h5>3 Internships</h5>
+              <small>Mastercard | WillowTree Ally Financial </small>
             </article>
             <article className='about__card'>
               <AiFillFolderOpen className='about__icon'/>
               <h5>Projects</h5>
-              <small>4 completed projects</small>
+              <small>2 Non-Profit </small>
+              <br/>
+              <small>2 Freelance</small>
             </article>
           </div>
 

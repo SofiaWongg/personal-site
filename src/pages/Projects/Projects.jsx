@@ -4,6 +4,8 @@ import IMG1 from '../../assets/assets/covidDashImg.png';
 import IMG2 from '../../assets/assets/pickupScreenshots.png';
 import IMG3 from '../../assets/assets/xl-project.png';
 import IMG4 from '../../assets/assets/hatched.png';
+import IMG5 from '../../assets/assets/PORCH.png';
+import IMG6 from '../../assets/assets/Bullseye.png';
 
 const Projects = () => {
   const data = [
@@ -21,6 +23,12 @@ const Projects = () => {
       download: 'https://www.hatcheddating.com',
     },
     {
+      id: 6,
+      image: IMG6,
+      title: 'Bullseye Game',
+      github: 'https://github.com/SofiaWongg/Bullseye',
+    },
+    {
       id: 3,
       image: IMG3,
       title: 'XL Forum Page',
@@ -34,6 +42,14 @@ const Projects = () => {
       github: 'https://github.com/comp426-2022-spring/a99-petra',
       demo: 'https://a99-petra.vercel.app/dashboard',
     },
+    {
+      id: 5,
+      image: IMG5,
+      title: 'PORCH Website',
+      github: 'https://github.com/cssgunc/PORCH',
+      demo: 'https://chapelhill.porchcommunities.org',
+    },
+    
   ];
 
   return (
