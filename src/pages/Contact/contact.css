@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: 30% 58%;
     gap: 12%;
-    transition: var(--tansition);
+    transition: var(--transition);
 }
 
 .contact__options {
@@ -18,7 +18,7 @@
     border-radius: 1.2rem;
     text-align: center;
     border: 1px solid transparent;
-    transition: var(--tansition);
+    transition: var(--transition);
 }
 
 .container.contact__container:hover {

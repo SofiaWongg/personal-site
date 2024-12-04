@@ -6,6 +6,7 @@ import IMG3 from '../../assets/assets/xl-project.png';
 import IMG4 from '../../assets/assets/hatched.png';
 import IMG5 from '../../assets/assets/PORCH.png';
 import IMG6 from '../../assets/assets/Bullseye.png';
+import IMG7 from '../../assets/assets/mastercard.png';
 
 const Projects = () => {
   const data = [
@@ -29,6 +30,12 @@ const Projects = () => {
       github: 'https://github.com/SofiaWongg/Bullseye',
     },
     {
+      id: 7,
+      image: IMG7,
+      title: 'Mastercard Pay With Rewards',
+      download: 'https://apps.apple.com/us/app/pay-with-rewards/id1027130748',
+    },
+    {
       id: 3,
       image: IMG3,
       title: 'XL Forum Page',
@@ -49,6 +56,7 @@ const Projects = () => {
       github: 'https://github.com/cssgunc/PORCH',
       demo: 'https://chapelhill.porchcommunities.org',
     },
+ 
     
   ];
 
