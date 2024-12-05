@@ -15,7 +15,6 @@ const Projects = () => {
       image: IMG2,
       title: 'Pick Up Sports App',
       github: 'https://github.com/SofiaWongg/iOS_pickup',
-      demo: 'https://github.com/SofiaWongg/iOS_pickup',
     },
     {
       id: 4,
