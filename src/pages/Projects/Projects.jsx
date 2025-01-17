@@ -7,6 +7,7 @@ import IMG4 from '../../assets/assets/hatched.png';
 import IMG5 from '../../assets/assets/PORCH.png';
 import IMG6 from '../../assets/assets/Bullseye.png';
 import IMG7 from '../../assets/assets/mastercard.png';
+import IMG8 from '../../assets/assets/xtcalculator.png';
 
 const Projects = () => {
   const data = [
@@ -21,6 +22,12 @@ const Projects = () => {
       image: IMG4,
       title: 'Hatched Dating',
       download: 'https://www.hatcheddating.com',
+    },
+    {
+      id: 8,
+      image: IMG8,
+      title: 'Strava Cross-Training Calculator',
+      github: 'https://github.com/SofiaWongg/StravaXTCalculator',
     },
     {
       id: 6,
@@ -55,8 +62,6 @@ const Projects = () => {
       github: 'https://github.com/cssgunc/PORCH',
       demo: 'https://chapelhill.porchcommunities.org',
     },
- 
-    
   ];
 
   return (
